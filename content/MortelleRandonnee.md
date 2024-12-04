@@ -14,6 +14,7 @@ toc = true
 | Lundi  | Mardi  | Mercredi |
 |--------|--------|----------|
 | Dodo   | Manger | Dodo     |
+| Miam   | iam    | ibjbbo   |
 | Coma   | Coma   | Coma     |
 * * * * * * * * * * * * * * * *
 
