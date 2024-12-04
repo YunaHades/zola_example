@@ -11,11 +11,13 @@ tags = ["Esquive les flèches ou cours ou meurs pour l'éternité et au-delà!"]
 toc = true
 +++
 * * * * * * * * * * * * * * * *
+
 | Lundi  | Mardi  | Mercredi |
 |--------|--------|----------|
 | Dodo   | Manger | Dodo     |
 | Miam   | iam    | ibjbbo   |
 | Coma   | Coma   | Coma     |
+
 * * * * * * * * * * * * * * * *
 
 
