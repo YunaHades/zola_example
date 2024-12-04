@@ -25,6 +25,12 @@ toc = true
 
 blablabla [^1]
 
+tegfdsrrdts [^2]
+
+ehgrsesfrv [^3]
+
 [^1]: bablalbalblabl
+[^2]: ibiwbfecwbefc
+[^3]: ubdebwbcwfc
 
 *Biodiversity* **PMC** [Biodiversity](/"https://biodiversitypmc.sibils.org/")
