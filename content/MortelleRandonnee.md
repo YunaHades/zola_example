@@ -11,4 +11,17 @@ tags = ["Esquive les flèches ou cours ou meurs pour l'éternité et au-delà!"]
 toc = true
 +++
 
-TOTOTATA
+| Lundi  | Mardi  | Mercredi |
+|--------|--------|----------|
+| Dodo   | Manger | Dodo     |
+| Coma   | Coma   | Coma     |
+
+
+
+![image](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png)
+
+blablabla [^1]
+
+[^1]: bablalbalblabl
+
+*Biodiversity* **PMC** [Biodiversity](/"https://biodiversitypmc.sibils.org/")
